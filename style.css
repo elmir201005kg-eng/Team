@@ -44,10 +44,10 @@ footer {
 	margin-top: auto;
 	flex-shrink: 0;
 	height: 100px;
-	justify-content: center;
 	align-items: center;
 	display: flex;
-	gap: 200px;
+	justify-content: space-between;
+	padding: 0 100px;
 }
 
 footer nav {

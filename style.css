@@ -60,6 +60,7 @@ footer nav ul li {
 	margin-top: 5px;
 	letter-spacing: 3%;
 	transition: 0.3s;
+	cursor: pointer;
 }
 
 footer img {

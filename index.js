@@ -15,6 +15,10 @@ const newsletter = document.querySelector(".newsletter");
 const contact = document.querySelector(".contact");
 const social = document.querySelector(".social");
 
+footer.style.position = "fixed";
+footer.style.left = "0";
+footer.style.bottom = "0";
+footer.style.width = "100%";
 footer.style.background = "#333";
 footer.style.padding = "70px 0";
 footer.style.color = "white";

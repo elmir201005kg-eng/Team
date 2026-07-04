@@ -47,6 +47,7 @@ footer {
 	justify-content: center;
 	align-items: center;
 	display: flex;
+	gap: 200px;
 }
 
 footer nav {
@@ -56,4 +57,11 @@ footer nav {
 
 footer nav ul li {
 	list-style: none;
+	margin-top: 5px;
+	letter-spacing: 3%;
+}
+
+footer img {
+	width: 80px;
+	height: 80px;
 }
